@@ -1,1 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <header>
+
+        <nav class="navbar">
+
+            <a href="index.html" class="logo">
+
+                <img src="imagens/logo.png" alt="Logo da campanha">
+
+            </a>
+
+            <ul class="menu">
+
+                <li><a href="index.html">Início</a></li>
+                <li><a href="historia.html">História</a></li>
+                <li><a href="propostas.html">Propostas</a></li>
+                <li><a href="agenda.html">Agenda</a></li>
+                <li><a href="fotos.html">Fotos</a></li>
+                <li><a href="jingle.html">Jingle</a></li>
+                <li><a href="contato.html">Contato</a></li>
+
+            </ul>
+
+        </nav>
+
+    </header>
+
+    <main class="container">
+
+        <h1>História de Sun Tzu</h1>
+
+        <br>
+        <p>Sun Tzu já foi um estrategista militar, filósofo e general chinês que viveu aproximadamente entre os séculos VI e V a.C., 
+        durante o período das Primaveras e Outonos, uma época marcada por intensos conflitos entre os diversos estados da antiga China, 
+        nascido no Estado de Qi e, posteriormente, colocado seus conhecimentos a serviço do Estado de Wu,
+        Porém atualmente ele está investindo em sua carreira política no Brasil! </p>
+        <br>
+        <p>Sua fama atravessou os séculos graças à obra A Arte da Guerra, um tratado militar composto por treze capítulos que reúne 
+        princípios sobre estratégia, liderança, planejamento e tomada de decisões. O livro influenciou não apenas comandantes militares, 
+        mas também líderes políticos, empresários e estudiosos de diversas áreas, tornando Sun Tzu uma das figuras mais importantes da história do pensamento estratégico. 
+        (Um político muito bom pra deixar passar, né? Então é só votar nele!) <br></p>
+        <br>
+
+        <h2>Infância</h2>
+
+        <br>
+
+        <p>Pouco se sabe sobre a infância de Sun Tzu, pois não existem registros históricos detalhados sobre seus primeiros anos de vida. 
+        Segundo a tradição, ele nasceu em uma família ligada ao meio militar, o que lhe proporcionou contato desde
+        cedo com assuntos relacionados à administração do Estado, à organização dos exércitos e às estratégias de defesa.</p>
+        <br>
+        <p>Durante sua juventude, acredita-se que tenha recebido uma educação voltada para a filosofia, a história, a política e as artes
+        militares, conhecimentos valorizados entre as elites da antiga China. Esse ambiente de aprendizado e observação dos conflitos
+        entre os estados teria contribuído para o desenvolvimento de sua visão estratégica e de seus princípios sobre liderança e tomada de decisões. <br></p>
+
+        <br>
+
+        <h2>Desempenho Acadêmico e Interesse por Política</h2>
+
+        <br>
+
+        <p>hivnjnhjoamdc</p>
+
+        <br>
+
+        <h2>Início na Carreira Política</h2>
+
+        <br>
+
+        <p>hivjnsfvijsnvjosfnvfo</p>
+
+    </main>
+
+    <footer>
+
+    </footer>
+
+</body>
+</html>
+
+
+
+
+p {
+    text-indent: 10px;
+}
 
